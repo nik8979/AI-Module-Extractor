@@ -17,7 +17,7 @@
 - User-friendly Streamlit interface with collapsible module expanders.
 - Download JSON output for further use.
 
-- LIVE LINK https://help.instagram.com/2335700983566418/?helpref=topq
+- LIVE LINK https://ai-module-extractor-ip7wsfapkt3tkujqgungzh.streamlit.app/
 - EXPLANATION VIDEO LINK https://drive.google.com/file/d/1J-QHedid-ZKuplCWaBVLWISrurCU9kfe/view?usp=sharing
 
 
